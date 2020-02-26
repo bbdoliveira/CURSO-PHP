@@ -18,7 +18,7 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="#">Exercicío A</a></li>
+                        <li><a href="exercicio.php">Exercicío A</a></li>
                         <li><a href="#">Exercicío B</a></li>
                         <li><a href="#">Exercicío C</a></li>
                     </ul>
@@ -91,7 +91,7 @@
         </div>
     </main>
     <footer class="rodape">
-        BrainLab © 2020
+        BrainLab © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
