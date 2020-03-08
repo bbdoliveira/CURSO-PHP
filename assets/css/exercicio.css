@@ -4,7 +4,7 @@ body.exercicio {
 }
 
 .principal {
-    height: calc(120vh - 240px);
+    height: calc(100vh - 240px);
 }
 
 .navegacao{
@@ -27,6 +27,10 @@ body.exercicio {
 
 .navegacao > a.verde { background-color: #4caf50;}
 .navegacao > a.vermelho { background-color: #f44336;}
+
+.conteudo {
+    font-size: 2rem;
+}
 
 .conteudo > .titulo {
     font-size: 2.5rem;
