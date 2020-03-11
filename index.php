@@ -40,7 +40,7 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=basico&file=desafio">
-                                Comentarios PHP
+                                Desafio
                             </a>
                         </li>
                     </ul>
