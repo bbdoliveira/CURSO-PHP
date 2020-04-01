@@ -118,6 +118,11 @@
                                 Variáveis Variáveis
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                                Desafio Variáveis
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
